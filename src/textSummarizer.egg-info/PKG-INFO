@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/khushahalichauhan/Text-Summarizer
+Author: khushahalichauhan
+Author-email: khushahali87@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/khushahalichauhan/Text-Summarizer/issues
+Description: # Text-Summarizer
+Platform: UNKNOWN
